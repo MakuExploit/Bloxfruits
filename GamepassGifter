@@ -1,0 +1,2 @@
+getgenv().robux = 36489
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoziIOnTop/pro/refs/heads/main/FakeGifterDragon.lua"))()
